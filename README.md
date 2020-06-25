@@ -15,7 +15,7 @@ Required Software On your machine
  
 Step 1. Extract YouFrame project folder in your D: drive
 
-Step 2. Make new  directore in D: drive like as "D:/work/project/YouFrame" 
+Step 2. Make new  directory in D: drive like as "D:/work/project/YouFrame" 
 
 Step 3. Import project in eclipse ide.
 
@@ -24,4 +24,4 @@ Step 4. Go to webcontent folder there is page folder in that 'index.jsp' webpage
 Step 5.Right click on 'index.jsp' choose Run option in tha Run as Server .
 
 
-Your webpade is launch on your localhost:8080
+Your webpage is launch on your localhost:8080
